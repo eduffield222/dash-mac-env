@@ -3,7 +3,7 @@ A nice environment for programming Dash on Mac OSX
 
 ## dash command center
 
-"""
+```
   example: dash set debug on
 -----------------------------------
 
@@ -28,7 +28,7 @@ misc:
   tail
   clear
   commit
-"""
+```
 
 ## Git navigation
 
